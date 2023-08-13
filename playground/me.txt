@@ -1,5 +1,0 @@
-{{#user}
-Name: Gaurav
-Skills: HTML, CSS, JS,C++,Java,Data Structures & Algorithm etc
-Email: iamgaurav629@gmail.com
-{{/user}}
