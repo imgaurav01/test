@@ -1,0 +1,5 @@
+{{#user}
+Name: Gaurav Raj
+Skills: HTML, CSS, JS, Next.js, C++, DS & Algo, MySql etc
+Email: iamgaurav629@gmail.com
+{{/user}}
